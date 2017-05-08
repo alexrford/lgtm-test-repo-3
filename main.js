@@ -1,7 +1,7 @@
 alert("this is some alert");
 
-function f(a) {
-  alert("f(" + a + ")");
+function f() {
+  alert("f()");
 }
 
 f(123);
