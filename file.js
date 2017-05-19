@@ -4,7 +4,6 @@ function f() {
   alert("f()");
 }
 
-f(123);
 f()
 
 f();
